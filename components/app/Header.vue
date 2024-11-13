@@ -69,7 +69,7 @@
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Alençon</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -315,7 +315,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive', target: '_self' },
   { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
   { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
-  { name: 'Baromètre FUB Lyon', path: 'https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739', target: '_blank' }
+  { name: 'Baromètre FUB Alençon', path: 'https://barometre.parlons-velo.fr/2021/palmares/#13/48.4311/0.07267', target: '_blank' }
   // { name: 'Services', path: '/services' },
 ];
 

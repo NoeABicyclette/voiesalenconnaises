@@ -5,12 +5,12 @@ export const useUrl = () => {
     return path.endsWith('/') ? path.slice(0, -1) : path;
   }
 
-  function getVoieCyclablePath(line: number) {
+  function getVoieCyclablePath(line: string) {
     return `/${config.slug}-${line}`;
   }
 
   function getVoieCyclableRegex() {
-    return new RegExp(`${config.slug}-(1[0-2]|[1-9])\\b`);
+    return new RegExp(`${config.slug}-(x[1-4]|e[1-3]|l[1-8]|c[1-8]|p)\\b`);
   }
 
   return { withoutTrailingSlash, getVoieCyclablePath, getVoieCyclableRegex };

@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.11421792511870876,
+            48.446106078217014
+          ],
+          [
+            0.1128171648198304,
+            48.44652977261799
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.11282837090249132,
+            48.44653720582173
+          ],
+          [
+            0.11282837090249132,
+            48.446693302845404
+          ],
+          [
+            0.11268269183136681,
+            48.44678250092889
+          ],
+          [
+            0.11241374585443964,
+            48.44679736726073
+          ],
+          [
+            0.11227927286509498,
+            48.44664870374433
+          ],
+          [
+            0.11234650935932677,
+            48.4464851733739
+          ],
+          [
+            0.11259304317181318,
+            48.44645544052307
+          ],
+          [
+            0.1128171648198304,
+            48.44652233941375
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.1123913336891178,
+            48.4464851733739
+          ],
+          [
+            0.11167414441612777,
+            48.44528841236291
+          ],
+          [
+            0.11058715369426864,
+            48.44331852668708
+          ],
+          [
+            0.11020614689329022,
+            48.442894805496536
+          ],
+          [
+            0.1098363461741485,
+            48.44252311733092
+          ],
+          [
+            0.10853644061663204,
+            48.44157901716315
+          ],
+          [
+            0.10314633984395982,
+            48.4386351016048
+          ],
+          [
+            0.09437204313590541,
+            48.43427840461675
+          ],
+          [
+            0.09400224241761634,
+            48.43420405459162
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.09324023230621492,
+            48.433750518429804
+          ],
+          [
+            0.0913127861353189,
+            48.43225604651491
+          ],
+          [
+            0.09060680294410872,
+            48.4318173623339
+          ],
+          [
+            0.08903795140966508,
+            48.430419495954396
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.08903795140966508,
+            48.430426931515825
+          ],
+          [
+            0.08814146481844887,
+            48.429504913630524
+          ],
+          [
+            0.0853959746331725,
+            48.430620255725046
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.08540718071583342,
+            48.43062769125703
+          ],
+          [
+            0.08383832918138978,
+            48.43086562770077
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
