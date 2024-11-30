@@ -23,6 +23,6 @@ const { line, anchor } = defineProps<{
 const color = getLineColor(Number(line));
 
 const href = anchor
-  ? `${getVoieCyclablePath(Number(line))}#${anchor}`
-  : `${getVoieCyclablePath(Number(line))}`;
+  ? `${getVoieCyclablePath(String(line))}#${anchor}`
+  : `${getVoieCyclablePath(String(line))}`;
 </script>
