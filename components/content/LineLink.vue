@@ -20,7 +20,7 @@ const { line, anchor } = defineProps<{
   anchor?: string
 }>();
 
-const color = getLineColor(Number(line));
+const color = getLineColor(String(line));
 
 const href = anchor
   ? `${getVoieCyclablePath(String(line))}#${anchor}`
