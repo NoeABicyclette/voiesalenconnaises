@@ -3,7 +3,13 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "line": "l2",
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
       "geometry": {
         "coordinates": [
           [
