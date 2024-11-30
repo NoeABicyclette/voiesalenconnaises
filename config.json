@@ -6,105 +6,108 @@
   "assoName": "A Bicyclette",
   "assoLink": "https://labicyclette.org",
   "slug": "voie-alenconnaise",
-  "center": [0.082158,48.430345],
+  "center": [
+    0.082158,
+    48.430345
+  ],
   "zoom": 12,
   "nbVoiesCyclables": 24,
   "colors": [
     {
       "line": "x1",
-      "color": "#60A75B"
+      "color": "#FF0000"
     },
     {
       "line": "x2",
-      "color": "#60A75B"
+      "color": "#0000FF"
     },
     {
       "line": "x3",
-      "color": "#3B7B64"
+      "color": "#008000"
     },
     {
       "line": "x4",
-      "color": "#3B7B64"
+      "color": "#DAA520"
     },
     {
       "line": "p",
-      "color": "#DC8953"
+      "color": "#FFA500"
     },
     {
       "line": "e1",
-      "color": "#AF7392"
+      "color": "#800080"
     },
     {
       "line": "e2",
-      "color": "#AF7392"
+      "color": "#FFC0CB"
     },
     {
       "line": "e3",
-      "color": "#75BCAE"
+      "color": "#A52A2A"
     },
     {
       "line": "l1",
-      "color": "#7E6D98"
+      "color": "#808080"
     },
     {
       "line": "l2",
-      "color": "#EAAB50"
+      "color": "#000000"
     },
     {
       "line": "l3",
-      "color": "#9A8A4B"
+      "color": "#CC5500"
     },
     {
       "line": "l4",
-      "color": "#4DADC9"
+      "color": "#40E0D0"
     },
     {
       "line": "l5",
-      "color": "#DBABB7"
+      "color": "#4B0082"
     },
     {
       "line": "l6",
-      "color": "#DBABB7"
+      "color": "#FF00FF"
     },
     {
       "line": "l7",
-      "color": "#DBABB7"
+      "color": "#FA8072"
     },
     {
       "line": "l8",
-      "color": "#DBABB7"
-    }, 
+      "color": "#50C878"
+    },
     {
       "line": "c1",
-      "color": "#7E6D98"
+      "color": "#4169E1"
     },
     {
       "line": "c2",
-      "color": "#EAAB50"
+      "color": "#00FFFF"
     },
     {
       "line": "c3",
-      "color": "#9A8A4B"
+      "color": "#FFBF00"
     },
     {
       "line": "c4",
-      "color": "#4DADC9"
+      "color": "#F4A460"
     },
     {
       "line": "c5",
-      "color": "#DBABB7"
+      "color": "#800000"
     },
     {
       "line": "c6",
-      "color": "#DBABB7"
+      "color": "#228B22"
     },
     {
       "line": "c7",
-      "color": "#DBABB7"
+      "color": "#FFDB58"
     },
     {
       "line": "c8",
-      "color": "#DBABB7"
+      "color": "#FF7F50"
     }
   ],
   "transports": [
