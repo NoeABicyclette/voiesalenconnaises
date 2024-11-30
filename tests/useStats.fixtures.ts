@@ -6,7 +6,7 @@ export const vl2StRambertCommun = {
     name: 'Variante - Quai Raoul Carrié',
     status: 'variante' as const,
     type: 'inconnu' as const,
-    link: '/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe'
+    link: '/voie-alenconnaise-2#fontaines-sur-saône-à-lîle-barbe'
   },
   geometry: {
     type: 'LineString',
@@ -27,7 +27,7 @@ export const vl5PierreBeniteNordCommun = {
     name: 'Pierre Bénite Nord',
     status: 'planned' as const,
     type: 'bilaterale' as const,
-    link: '/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage'
+    link: '/voie-alenconnaise-5#gare-doullins-à-pierre-bénite-barrage'
   },
   geometry: {
     type: 'LineString',
@@ -47,7 +47,7 @@ export const vl6CoursHerbouville = {
     name: "Cours d'Herbouville",
     status: 'planned' as const,
     type: 'bilaterale' as const,
-    link: '/voie-lyonnaise-6#cours-dherbouville'
+    link: '/voie-alenconnaise-6#cours-dherbouville'
   },
   geometry: {
     type: 'LineString',
@@ -67,7 +67,7 @@ export const vl3StRambertCommun = {
     name: 'Variante - Quai Raoul Carrié',
     status: 'variante' as const,
     type: 'inconnu' as const,
-    link: '/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe'
+    link: '/voie-alenconnaise-3#saint-rambert-à-pont-de-lîle-barbe'
   },
   geometry: {
     type: 'LineString',
