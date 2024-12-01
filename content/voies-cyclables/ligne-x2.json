@@ -5,79 +5,36 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Entree du centre penitentiaire",
+        "section": "a",
+        "name": "Rue de Bretagne",
         "status": "done",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-x2#entree-du-centre-penitentiaire"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.008482302351836779,
-            48.44119396867259
-          ],
-          [
-            0.00818194995915178,
-            48.441511292219985
-          ],
-          [
-            0.008204198284204267,
-            48.44167364303593
-          ],
-          [
-            0.008804903069517422,
-            48.44284698123337
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "x2",
-        "name": "D112",
-        "status": "postponed",
-        "type": "voie-verte",
-        "link": "/voie-alenconnaise-x2#d112"
+        "type": "zone-30",
+        "direction": "bidirectionel",
+        "length": 468,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#rue-de-bretagne"
       },
       "geometry": {
         "coordinates": [
           [
-            0.008793778906579064,
-            48.44284698123337
+            0.07747292518616,
+            48.43149106332714
           ],
           [
-            0.011485826274054034,
-            48.44156294935422
+            0.08246582114714,
+            48.43071335157234
           ],
           [
-            0.013020960723594044,
-            48.44067739121519
+            0.08325376629720509,
+            48.430595348566236
           ],
           [
-            0.015256917420629179,
-            48.438884088697876
+            0.08338892888488673,
+            48.430527460769966
           ],
           [
-            0.01630258871261958,
-            48.43821250644123
-          ],
-          [
-            0.0188722349778061,
-            48.43664789323287
-          ],
-          [
-            0.019736117950571952,
-            48.43627219854011
-          ],
-          [
-            0.020846067300738014,
-            48.43593680785273
-          ],
-          [
-            0.025357827708575087,
-            48.43530512061102
+            0.08347517860154782,
+            48.43044901613309
           ]
         ],
         "type": "LineString"
@@ -87,64 +44,79 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Rue de l'église",
+        "section": "b",
+        "name": "Giratoire Bretagne / Julien / Candie",
+        "status": "done",
+        "type": "zone-30",
+        "direction": "unknown",
+        "length": 75,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#giratoire-bretagne-julien-candie"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.07747292518616,
+            48.43149106332714
+          ],
+          [
+            0.07745817303658,
+            48.43158182724218
+          ],
+          [
+            0.0773361325264,
+            48.43165301451306
+          ],
+          [
+            0.0772100687027,
+            48.4316503449922
+          ],
+          [
+            0.07712155580521,
+            48.43162275993511
+          ],
+          [
+            0.07707855947891,
+            48.43151530601207
+          ],
+          [
+            0.07722347974777,
+            48.43140497093441
+          ],
+          [
+            0.07739245891571,
+            48.43141186722963
+          ],
+          [
+            0.07747292518616,
+            48.43149106332714
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "c",
+        "name": "Rue de Bretagne 1",
         "status": "postponed",
         "type": "zone-30",
-        "link": "/voie-alenconnaise-x2#rue-de-l-eglise"
+        "direction": "bidirectionel",
+        "length": 146,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#rue-de-bretagne-1"
       },
       "geometry": {
         "coordinates": [
           [
-            0.02535495553101441,
-            48.435305575379715
+            0.07368387325567,
+            48.43201841831311
           ],
           [
-            0.02534092895771778,
-            48.4351473706667
-          ],
-          [
-            0.025446128262416323,
-            48.435058961936136
-          ],
-          [
-            0.026470068168549687,
-            48.43464018164843
-          ],
-          [
-            0.027718433259593667,
-            48.43404690366549
-          ],
-          [
-            0.028588258523427612,
-            48.43364494098131
-          ],
-          [
-            0.031226543417858466,
-            48.432898543190134
-          ],
-          [
-            0.03290058205510604,
-            48.43233873765158
-          ],
-          [
-            0.03359698212886997,
-            48.432187677957586
-          ],
-          [
-            0.03418624372926615,
-            48.432152134434716
-          ],
-          [
-            0.03466836685737462,
-            48.43224987906231
-          ],
-          [
-            0.03548529771288145,
-            48.432978514906694
-          ],
-          [
-            0.036235986819036725,
-            48.433768989227644
+            0.07707855947891,
+            48.43151530601207
           ]
         ],
         "type": "LineString"
@@ -154,34 +126,17 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Rue du quartz",
-        "status": "postponed",
-        "type": "voie-verte",
-        "link": "/voie-alenconnaise-x2#rue-du-quartz"
+        "section": "d",
+        "name": "Double carrefour à feux du Chapeau Rouge",
+        "status": "in-review",
+        "type": "aucun",
+        "direction": "unidirectionel",
+        "length": 149,
+        "cost": 119200,
+        "link": "/voie-alenconnaise-x2#carrefour-chapeau-rouge"
       },
       "geometry": {
-        "coordinates": [
-          [
-            0.036235986819036725,
-            48.43375816092109
-          ],
-          [
-            0.03796594261837072,
-            48.43570721887946
-          ],
-          [
-            0.03874925959337361,
-            48.43590211016689
-          ],
-          [
-            0.03889614263394492,
-            48.436118666716425
-          ],
-          [
-            0.03912462736136035,
-            48.43638936110486
-          ]
-        ],
+        "coordinates": [],
         "type": "LineString"
       }
     },
@@ -189,10 +144,140 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
+        "section": "e",
+        "name": "Rue de Bretagne 2",
+        "status": "done",
+        "type": "bande-cyclable",
+        "direction": "unidirectionel",
+        "length": 529,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#rue-de-bretagne-2"
+      },
+      "geometry": {
+        "coordinates": [],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "f",
+        "name": "Giratoire Bretagne / Alençon",
+        "status": "in-review",
+        "type": "aucun",
+        "direction": "unidirectionel",
+        "length": 152,
+        "cost": 60800,
+        "link": "/voie-alenconnaise-x2#giratoire-bretagne-alencon"
+      },
+      "geometry": {
+        "coordinates": [],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "g",
         "name": "Rue d'Alençon 1",
-        "status": "postponed",
-        "type": "bandes-cyclables",
-        "link": "/voie-alenconnaise-x2#rue-d'Alencon-1"
+        "status": "done",
+        "type": "bande-cyclable",
+        "direction": "unidirectionel",
+        "length": 624,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#rue-d-alencon-1"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.06616864105893683,
+            48.43310614815377
+          ],
+          [
+            0.06735321734254285,
+            48.43292912999067
+          ],
+          [
+            0.0736828188565255,
+            48.43201035851243
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "h",
+        "name": "Giratoire Alençon / Charité / Moulin à Vent",
+        "status": "in-review",
+        "type": "bande-cyclable",
+        "direction": "unidirectionel",
+        "length": 107,
+        "cost": 16050,
+        "link": "/voie-alenconnaise-x2#giratoire-alencon-charite"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.06547235298566534,
+            48.433220851657524
+          ],
+          [
+            0.06554352442904587,
+            48.433044843121934
+          ],
+          [
+            0.06573249466077868,
+            48.43292857607835
+          ],
+          [
+            0.0660171043885498,
+            48.432943102038536
+          ],
+          [
+            0.06616597716831052,
+            48.433053499200895
+          ],
+          [
+            0.06617911300153878,
+            48.43318132719446
+          ],
+          [
+            0.06606964772265655,
+            48.43332077554825
+          ],
+          [
+            0.06584633855163702,
+            48.433355637576796
+          ],
+          [
+            0.0656405438270724,
+            48.43331496520767
+          ],
+          [
+            0.06547415660213574,
+            48.433221999670536
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "i",
+        "name": "Rue d'Alençon-2",
+        "status": "done",
+        "type": "bande-cyclable",
+        "direction": "unidirectionel",
+        "length": 1309,
+        "cost": 0,
+        "link": "/voie-alenconnaise-x2#rue-d-alencon-2"
       },
       "geometry": {
         "coordinates": [
@@ -256,52 +341,54 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Giratoire Alençon / charité / moulin à vent",
-        "status": "postponed",
-        "type": "bandes-cyclables",
-        "link": "/voie-alenconnaise-x2#quincieuxgenay-à-lîle-barbe"
+        "section": "j",
+        "name": "Rue d'Alençon-3",
+        "status": "in-review",
+        "type": "bande-cyclable",
+        "direction": "unidirectionel",
+        "length": 37,
+        "cost": 5550,
+        "link": "/voie-alenconnaise-x2#rue-d-alencon-3"
+      },
+      "geometry": {
+        "coordinates": [],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "k",
+        "name": "Rue du Quartz",
+        "status": "in-review",
+        "type": "voie-verte",
+        "direction": "bidirectionel",
+        "length": 301,
+        "cost": 135450,
+        "link": "/voie-alenconnaise-x2#rue-du-quartz"
       },
       "geometry": {
         "coordinates": [
           [
-            0.06547235298566534,
-            48.433220851657524
+            0.036235986819036725,
+            48.43375816092109
           ],
           [
-            0.06554352442904587,
-            48.433044843121934
+            0.03796594261837072,
+            48.43570721887946
           ],
           [
-            0.06573249466077868,
-            48.43292857607835
+            0.03874925959337361,
+            48.43590211016689
           ],
           [
-            0.0660171043885498,
-            48.432943102038536
+            0.03889614263394492,
+            48.436118666716425
           ],
           [
-            0.06616597716831052,
-            48.433053499200895
-          ],
-          [
-            0.06617911300153878,
-            48.43318132719446
-          ],
-          [
-            0.06606964772265655,
-            48.43332077554825
-          ],
-          [
-            0.06584633855163702,
-            48.433355637576796
-          ],
-          [
-            0.0656405438270724,
-            48.43331496520767
-          ],
-          [
-            0.06547415660213574,
-            48.433221999670536
+            0.03912462736136035,
+            48.43638936110486
           ]
         ],
         "type": "LineString"
@@ -311,24 +398,68 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Rue d'Alençon 2",
-        "status": "done",
-        "type": "bandes-cyclables",
-        "link": "/voie-alenconnaise-x2#rue-d'Alencon-2"
+        "section": "l",
+        "name": "Rue de l'Église 1",
+        "status": "in-review",
+        "type": "zone-30",
+        "direction": "bidirectionel",
+        "length": 272,
+        "cost": 40800,
+        "link": "/voie-alenconnaise-x2#rue-de-leglise-1"
       },
       "geometry": {
         "coordinates": [
           [
-            0.06616864105893683,
-            48.43310614815377
+            0.02535495553101441,
+            48.435305575379715
           ],
           [
-            0.06735321734254285,
-            48.43292912999067
+            0.02534092895771778,
+            48.4351473706667
           ],
           [
-            0.0736828188565255,
-            48.43201035851243
+            0.025446128262416323,
+            48.435058961936136
+          ],
+          [
+            0.026470068168549687,
+            48.43464018164843
+          ],
+          [
+            0.027718433259593667,
+            48.43404690366549
+          ],
+          [
+            0.028588258523427612,
+            48.43364494098131
+          ],
+          [
+            0.031226543417858466,
+            48.432898543190134
+          ],
+          [
+            0.03290058205510604,
+            48.43233873765158
+          ],
+          [
+            0.03359698212886997,
+            48.432187677957586
+          ],
+          [
+            0.03418624372926615,
+            48.432152134434716
+          ],
+          [
+            0.03466836685737462,
+            48.43224987906231
+          ],
+          [
+            0.03548529771288145,
+            48.432978514906694
+          ],
+          [
+            0.036235986819036725,
+            48.433768989227644
           ]
         ],
         "type": "LineString"
@@ -338,20 +469,50 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Rue de Bretagne",
-        "status": "postponed",
-        "type": "bilaterale",
-        "link": "/voie-alenconnaise-x2#rue-de-bretagne"
+        "section": "m",
+        "name": "Rue de l’Église 2",
+        "status": "in-review",
+        "type": "zone-30",
+        "direction": "bidirectionel",
+        "length": 791,
+        "cost": 118650,
+        "link": "/voie-alenconnaise-x2#rue-de-leglise-2"
+      },
+      "geometry": {
+        "coordinates": [],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "n",
+        "name": "D112",
+        "status": "in-review",
+        "type": "voie-verte",
+        "direction": "bidirectionel",
+        "length": 426,
+        "cost": 340800,
+        "link": "/voie-alenconnaise-x2#d112"
       },
       "geometry": {
         "coordinates": [
           [
-            0.07368387325567483,
-            48.432018418313106
+            0.0188722349778061,
+            48.43664789323287
           ],
           [
-            0.07528822026813486,
-            48.43177929151645
+            0.019736117950571952,
+            48.43627219854011
+          ],
+          [
+            0.020846067300738014,
+            48.43593680785273
+          ],
+          [
+            0.025357827708575087,
+            48.43530512061102
           ]
         ],
         "type": "LineString"
@@ -361,40 +522,75 @@
       "type": "Feature",
       "properties": {
         "line": "x2",
-        "name": "Rue de Bretagne",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-x2#rue-de-bretagne"
+        "section": "o",
+        "name": "D112",
+        "status": "in-review",
+        "type": "voie-verte",
+        "direction": "bidirectionel",
+        "length": 1080,
+        "cost": 1440800,
+        "link": "/voie-alenconnaise-x2#d112"
       },
       "geometry": {
         "coordinates": [
           [
-            0.07527923701553618,
-            48.431781535740186
+            0.008793778906579064,
+            48.44284698123337
           ],
           [
-            0.07707855947890607,
-            48.43151530601207
+            0.011485826274054034,
+            48.44156294935422
           ],
           [
-            0.07721648663681435,
-            48.43139051034706
+            0.013020960723594044,
+            48.44067739121519
           ],
           [
-            0.07746099387063055,
-            48.43146538778285
+            0.015256917420629179,
+            48.438884088697876
           ],
           [
-            0.08062077965908543,
-            48.431003641836696
+            0.01630258871261958,
+            48.43821250644123
           ],
           [
-            0.08246582114713874,
-            48.43071335157234
+            0.0188722349778061,
+            48.43664789323287
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": "x2",
+        "section": "p",
+        "name": "Entrée du centre pénitentiaire",
+        "status": "in-review",
+        "type": "itineraire-conseille",
+        "direction": "bidirectionel",
+        "length": 191,
+        "cost": 191000,
+        "link": "/voie-alenconnaise-x2#entree-centre-penitentiaire"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            0.008482302351836779,
+            48.44119396867259
           ],
           [
-            0.0823170429464426,
-            48.43031847766164
+            0.00818194995915178,
+            48.441511292219985
+          ],
+          [
+            0.008204198284204267,
+            48.44167364303593
+          ],
+          [
+            0.008804903069517422,
+            48.44284698123337
           ]
         ],
         "type": "LineString"

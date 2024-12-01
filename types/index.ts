@@ -8,8 +8,11 @@ export type LaneType =
 | 'bandes-cyclables'
 | 'zone-de-rencontre'
 | 'zone-30'
+| 'itineraire-conseille'
 | 'aucun'
 | 'inconnu';
+
+export type LaneDirection = 'unidirectionel' | 'bidirectionel' | 'unknown'
 
 export type LaneStatus = 'done' | 'wip' | 'planned' | 'tested' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
 

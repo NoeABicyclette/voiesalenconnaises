@@ -88,6 +88,8 @@ const typeFilters = ref([
   { label: 'Vélorue', isEnable: true, types: ['velorue'] },
   { label: 'Bandes cyclables', isEnable: true, types: ['bandes-cyclables'] },
   { label: 'Zone de rencontre', isEnable: true, types: ['zone-de-rencontre'] },
+  { label: 'Zone 30', isEnable: true, types: ['zone-30'] },
+  { label: 'Itinéraire Conseillé', isEnable: true, types: ['itineraire-conseille'] },
   { label: 'Inconnu', isEnable: true, types: ['inconnu'] },
   { label: 'Aucun', isEnable: true, types: ['aucun'] }
 ]);
