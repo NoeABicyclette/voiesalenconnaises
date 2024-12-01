@@ -118,6 +118,8 @@ function checkGeoJsonDataHealth({ links }) {
                 'voie-verte',
                 'bandes-cyclables',
                 'zone-de-rencontre',
+                'zone-30',
+                'itineraire-conseille',
                 'inconnu',
                 'aucun'
               ];
