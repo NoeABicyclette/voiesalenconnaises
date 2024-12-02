@@ -11,7 +11,7 @@
     48.430345
   ],
   "zoom": 12,
-  "nbVoiesCyclables": 24,
+  "nbVoiesCyclables": 26,
   "colors": [
     {
       "line": "x1",
@@ -107,6 +107,14 @@
     },
     {
       "line": "c8",
+      "color": "#FF7F50"
+    }, 
+    {
+      "line": "V40",
+      "color": "#FFDB58"
+    },
+    {
+      "line": "V40b",
       "color": "#FF7F50"
     }
   ],
