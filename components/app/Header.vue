@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
+              src="http://abicyclette.org/wp-content/uploads/2024/12/Cyclopolis-par-Abicyclette.png"
               alt="logo cyclopolis"
             >
           </NuxtLink>
