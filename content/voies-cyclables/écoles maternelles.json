@@ -98,6 +98,118 @@
         "type": "Point"
       },
       "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Monsort ": "Etablissement Public"
+      },
+      "geometry": {
+        "coordinates": [
+          0.08778506287566756,
+          48.42445984701945
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Jules Verne": "Etablissement Public"
+      },
+      "geometry": {
+        "coordinates": [
+          0.09494327207306696,
+          48.41727678895913
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Molière": "Etablissement Public"
+      },
+      "geometry": {
+        "coordinates": [
+          0.09308205818709325,
+          48.414541631774966
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Jean de la Fontaine": "Etablissement Public"
+      },
+      "geometry": {
+        "coordinates": [
+          0.09814367130604751,
+          48.41606763483907
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Notre Dame de l'Assomption": "Etablissement Privé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.09158337984771947,
+          48.4192600106623
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Sainte-Thérèse": "Etablissement Privé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.09079190210269417,
+          48.42558361095544
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Saint-François-de-Sales ": "Etablissement Privé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.0983175747304017,
+          48.42948101841475
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Maternelle Notre Dame de Lancrel ": "Etablissement Privé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.08322837251219539,
+          48.43426592742878
+        ],
+        "type": "Point"
+      },
+      "id": 14
     }
   ]
 }
