@@ -138,9 +138,9 @@
       "type": "Feature",
       "properties": {
         "line": "x3",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
+        "name": "Rue Lazare Carnot 2",
+        "status": "Existante",
+        "type": "pistes-cyclables",
         "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -161,9 +161,9 @@
       "type": "Feature",
       "properties": {
         "line": "x3",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
+        "name": "Rue Lazare Carnot 1",
+        "status": "Existante",
+        "type": "bandes-cyclables",
         "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -196,9 +196,9 @@
       "type": "Feature",
       "properties": {
         "line": "x3",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
+        "name": "Les Fourneaux 2",
+        "status": "En projet",
+        "type": "pistes-cyclables",
         "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -231,9 +231,9 @@
       "type": "Feature",
       "properties": {
         "line": "x3",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
+        "name": "Les Fourneaux 1",
+        "status": "En projet",
+        "type": "bandes-cyclables",
         "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
