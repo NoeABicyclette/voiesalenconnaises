@@ -3,7 +3,16 @@
     "features": [
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "a",
+        "name": "Mairie-route-du-Mans",
+        "status": "done",
+        "type": "zone-30",
+        "direction": "bidirectionel",
+        "length": 1068,
+        "cost": 0
+        },
         "geometry": {
           "coordinates": [
             [
@@ -104,7 +113,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+          "section": "b",
+          "name": "giratoire-1",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 95,
+          "cost": 14250
+  
+        },
         "geometry": {
           "coordinates": [
             [
@@ -137,7 +156,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "c",
+        "name": "liaison-giratoires",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "direction": "unidirectionel",
+        "length": 56,
+        "cost": 0
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -154,7 +183,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+          "section": "d",
+          "name": "giratoire-2",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "bidirectionel",
+          "length": 92,
+          "cost": 13800
+  
+        },
         "geometry": {
           "coordinates": [
             [
@@ -195,7 +234,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "e",
+        "name": "Avenue-du-général-Leclerc",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "direction": "unidirectionel",
+        "length": 756,
+        "cost": 0
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -216,7 +265,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "f",
+        "name": "giratoire-Leclerc-Kennedy",
+        "status": "planned",
+        "type": "piste-cyclable",
+        "direction": "unidirectionel",
+        "length": 113,
+        "cost": 56500
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -261,7 +320,16 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "g",
+        "name": "Avenue-du-général-Leclerc",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "direction": "unidirectionel",
+        "length": 492,
+        "cost": 0
+        },
         "geometry": {
           "coordinates": [
             [
@@ -282,7 +350,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "h",
+        "name": "giratoire-Leclerc-Roselet",
+        "status": "planned",
+        "type": "piste-cyclable",
+        "direction": "bidirectionel",
+        "length": 74,
+        "cost": 37000
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -315,7 +393,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "i",
+        "name": "Route-du-Mans-1",
+        "status": "done",
+        "type": "piste-cyclable",
+        "direction": "bidirectionel",
+        "length": 317,
+        "cost": 0
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -332,7 +420,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "j",
+        "name": "Route-du-Mans-2",
+        "status": "planned",
+        "type": "piste-cyclable",
+        "direction": "bidirectionel",
+        "length": 206,
+        "cost": 92700
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -349,7 +447,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "k",
+        "name": "giratoire-Mans-Chevallerie",
+        "status": "planned",
+        "type": "piste-cyclable",
+        "direction": "bidirectionel",
+        "length": 135,
+        "cost": 60750
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -382,7 +490,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "k",
+        "name": "Route-du-Mans-3",
+        "status": "planned",
+        "type": "piste-cyclable",
+        "direction": "unidirectionel",
+        "length": 852,
+        "cost": 681600
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -399,7 +517,17 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "m",
+        "name": "voie-verte-CFA",
+        "status": "planned",
+        "type": "voie-verte",
+        "direction": "bidirectionel",
+        "length": 494,
+        "cost": 222300
+
+        },
         "geometry": {
           "coordinates": [
             [
@@ -416,7 +544,16 @@
       },
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "line": "x1",
+        "section": "n",
+        "name": "liaison-CFA",
+        "status": "planned",
+        "type": "voie-verte",
+        "direction": "bidirectionel",
+        "length": 751,
+        "cost": 337950
+        },
         "geometry": {
           "coordinates": [
             [
