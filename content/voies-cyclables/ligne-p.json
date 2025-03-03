@@ -1,325 +1,630 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "a",
+            "name": "Rue-Demees-1",
+            "status": "planned",
+            "type": "bandes-cyclables",
+            "direction": "unidirectionel",
+            "length": 36,
+            "cost": 900
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.0939830437339424,
+              48.43410878283689
+            ],
+            [
+              0.09438143168549118,
+              48.43389110476582
+            ]
+          ],
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.08985201586924063,
-            48.4232877638473
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "b",
+          "name": "Rue-Demees-2",
+          "status": "done",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 283,
+          "cost": 0
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.09439314897804252,
+              48.43389110476582
+            ],
+            [
+              0.09548285719887417,
+              48.43147326062834
+            ]
           ],
-          [
-            0.09057029090004676,
-            48.42415889959614
-          ],
-          [
-            0.09124522174698768,
-            48.42501358431042
-          ],
-          [
-            0.09381562379709862,
-            48.42818882831415
-          ],
-          [
-            0.09512232290950351,
-            48.42980155467805
-          ],
-          [
-            0.09587782435593795,
-            48.43073767895979
-          ],
-          [
-            0.09603520076325367,
-            48.430810278443744
-          ],
-          [
-            0.09597879014802402,
-            48.430943361990444
-          ],
-          [
-            0.09576568338155766,
-            48.43097663282211
-          ],
-          [
-            0.09433478644015736,
-            48.43392219526288
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.0943282067196094,
-            48.43391392623974
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "c",
+            "name": "Rue-Demees-3",
+            "status": "planned",
+            "type": "bandes-cyclables",
+            "direction": "unidirectionel",
+            "length": 45,
+            "cost": 1125
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.09548285719887417,
+              48.43148103523106
+            ],
+            [
+              0.0957406376382437,
+              48.43098345825163
+            ]
           ],
-          [
-            0.09401059436615355,
-            48.43407949997007
-          ],
-          [
-            0.09386313148760905,
-            48.434320333523885
-          ],
-          [
-            0.09348880264192871,
-            48.43429775542674
-          ],
-          [
-            0.09353417583554346,
-            48.434071973902945
-          ],
-          [
-            0.09373835520543139,
-            48.43398166101272
-          ],
-          [
-            0.09401059436615355,
-            48.43407949997007
-          ],
-          [
-            0.09387447478619038,
-            48.43430528145984
-          ],
-          [
-            0.0935228325369053,
-            48.43430528145984
-          ],
-          [
-            0.08900947658267455,
-            48.436680609604736
-          ],
-          [
-            0.08647717735496485,
-            48.438017942992985
-          ],
-          [
-            0.08349133199672565,
-            48.438862116569936
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.08348787929483592,
-            48.4388598476381
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "d",
+          "name": "Rue-Cazault",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 125,
+          "cost": 1875
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.09575235493073819,
+              48.43098345825163
+            ],
+            [
+              0.09593983161400388,
+              48.43096790889274
+            ],
+            [
+              0.09606872183366022,
+              48.43089016202569
+            ],
+            [
+              0.09602185266263064,
+              48.43075799207898
+            ],
+            [
+              0.0958578105653487,
+              48.43071911849975
+            ],
+            [
+              0.09572892034569236,
+              48.430804640334685
+            ],
+            [
+              0.09575235493073819,
+              48.431006782281656
+            ]
           ],
-          [
-            0.08339764210842304,
-            48.438982180425
-          ],
-          [
-            0.08322501444754948,
-            48.43898738606873
-          ],
-          [
-            0.08316616410917277,
-            48.43890669852735
-          ],
-          [
-            0.0831347772623019,
-            48.43885203915215
-          ],
-          [
-            0.08018833696834804,
-            48.43796706965733
-          ],
-          [
-            0.07812411833947408,
-            48.437314218625914
-          ],
-          [
-            0.07790322741493583,
-            48.437298375631855
-          ],
-          [
-            0.0779330775396545,
-            48.43714786694585
-          ],
-          [
-            0.07649496940371137,
-            48.43463326416065
-          ],
-          [
-            0.07545744762509798,
-            48.43288215989929
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.07545733126144683,
-            48.432882027466235
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "e",
+          "name": "Boulevard-de-la-Republique",
+          "status": "done",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 931,
+          "cost": 0
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.09585138212085553,
+              48.4307144914429
+            ],
+            [
+              0.08989635538998186,
+              48.423338815859836
+            ]
           ],
-          [
-            0.07480437553010688,
-            48.43186931704952
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.07365623472944094,
-            48.43196165393147
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "f",
+          "name": "Avenue-de-Koutiala-1",
+          "status": "done",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 268,
+          "cost": 0
+
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.08943382458656401,
+              48.42238920521683
+            ],
+            [
+              0.08563243616396221,
+              48.422437165848464
+            ]
           ],
-          [
-            0.07295777363938782,
-            48.429994842126575
-          ],
-          [
-            0.07299184491159849,
-            48.42959355795384
-          ],
-          [
-            0.07363068127557426,
-            48.42904531952544
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.07362581565885762,
-            48.429047163276664
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "g",
+          "name": "Avenue-de-Koutiala-2",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 365,
+          "cost": 24250
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.0856324384385232,
+              48.42243716900535
+            ],
+            [
+              0.0829440040410816,
+              48.42246594536249
+            ],
+            [
+              0.08220685267409067,
+              48.42250431381365
+            ],
+            [
+              0.0815275170998575,
+              48.4226961556337
+            ],
+            [
+              0.0809493591650039,
+              48.42306065309731
+            ]
           ],
-          [
-            0.08010330820656009,
-            48.42375928862043
-          ],
-          [
-            0.08110136927706435,
-            48.42290749899777
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.08110069807526088,
-            48.42290754196793
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "h",
+            "name": "Avenue-de-Koutiala-3",
+            "status": "done",
+            "type": "bandes-cyclables",
+            "direction": "unidirectionel",
+            "length": 865,
+            "cost": 0
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.08092044360910222,
+              48.42307025148287
+            ],
+            [
+              0.07352002204058294,
+              48.4291320354377
+            ]
           ],
-          [
-            0.0814397730996177,
-            48.422732321050546
-          ],
-          [
-            0.08225125335363259,
-            48.422483940812555
-          ],
-          [
-            0.08258909411253512,
-            48.42243997958161
-          ],
-          [
-            0.08356287041777932,
-            48.4224289892681
-          ],
-          [
-            0.08567568270163406,
-            48.4224174815447
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "p",
-        "name": "Route du Grand Veissieux",
-        "status": "postponed",
-        "type": "aucun",
-        "link": "/voie-alenconnaise-3#quincieuxgenay-à-lîle-barbe"
+          "type": "LineString"
+        }
       },
-      "geometry": {
-        "coordinates": [
-          [
-            0.08567039536552556,
-            48.4224180837781
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "i",
+            "name": "Boulevard-Duchamps",
+            "status": "planned",
+            "type": "piste-cyclable",
+            "direction": "unidirectionel",
+            "length": 354,
+            "cost": 283200
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.07353447480170416,
+              48.42913203807447
+            ],
+            [
+              0.07308640240270847,
+              48.4294868985929
+            ],
+            [
+              0.07294186291872506,
+              48.42983216590818
+            ],
+            [
+              0.07299967871256285,
+              48.43013906821923
+            ],
+            [
+              0.07365010638935132,
+              48.43199003348002
+            ]
           ],
-          [
-            0.0893646716758667,
-            48.42235333262309
-          ]
-        ],
-        "type": "LineString"
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "j",
+            "name": "Boulevard-Colbert-1",
+            "status": "planned",
+            "type": "piste-cyclable",
+            "direction": "unidirectionel",
+            "length": 128,
+            "cost": 102400
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.07477751520593756,
+              48.431884538980626
+            ],
+            [
+              0.0754568507790907,
+              48.43292028501668
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "k",
+            "name": "Boulevard-Colbert-2",
+            "status": "done",
+            "type": "piste-cyclable",
+            "direction": "unidirectionel",
+            "length": 505,
+            "cost": 0
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.07545795510981179,
+              48.43291143105196
+            ],
+            [
+              0.07793685568506703,
+              48.4371765638181
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "l",
+          "name": "Rue-de-Lancrel",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 76,
+          "cost": 1140
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.07793518110003106,
+              48.43717791170141
+            ],
+            [
+              0.07798601746716827,
+              48.437168917854876
+            ],
+            [
+              0.07803346474244677,
+              48.43718240862444
+            ],
+            [
+              0.07809616292729515,
+              48.43722737782943
+            ],
+            [
+              0.07810294110996097,
+              48.43725773202053
+            ],
+            [
+              0.07807243928968433,
+              48.437306073843075
+            ],
+            [
+              0.0780249920143774,
+              48.437324061486294
+            ],
+            [
+              0.07795721019229518,
+              48.43732855839599
+            ],
+            [
+              0.07790806837164155,
+              48.437326309941
+            ],
+            [
+              0.07783689745875222,
+              48.437300452703454
+            ],
+            [
+              0.07784537018568471,
+              48.43727796813809
+            ],
+            [
+              0.0778504538229754,
+              48.43724986241719
+            ],
+            [
+              0.07786062109636305,
+              48.43722175668114
+            ],
+            [
+              0.07787417746061465,
+              48.437207141692085
+            ],
+            [
+              0.07793518110003106,
+              48.43717791170141
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "m",
+            "name": "Boulevard-Mezeray",
+            "status": "done",
+            "type": "piste-cylable",
+            "direction": "bidirectionel",
+            "length": 407,
+            "cost": 0
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.07807906602548087,
+              48.43730853137933
+            ],
+            [
+              0.08311616692202506,
+              48.438840371329974
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "n",
+          "name": "Rue-du-general-Fromentin",
+          "status": "planned",
+          "type": "bandes-cyclables",
+          "direction": "unidirectionel",
+          "length": 88,
+          "cost": 1320
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.08311539047940641,
+              48.43883964319201
+            ],
+            [
+              0.08314223590272718,
+              48.43884649310277
+            ],
+            [
+              0.0831752764260898,
+              48.43882868333341
+            ],
+            [
+              0.08320831694811659,
+              48.43880265365922
+            ],
+            [
+              0.08325374766630489,
+              48.43878895382542
+            ],
+            [
+              0.08329711335198908,
+              48.43878621385852
+            ],
+            [
+              0.08335080420127383,
+              48.438783473890965
+            ],
+            [
+              0.0834334055077477,
+              48.438801283676156
+            ],
+            [
+              0.08346438099735565,
+              48.438842383156526
+            ],
+            [
+              0.08347883622593599,
+              48.43889992237291
+            ],
+            [
+              0.08346644603111031,
+              48.43894924164968
+            ],
+            [
+              0.08342308034414714,
+              48.43898623107572
+            ],
+            [
+              0.08335080420127383,
+              48.43901089067796
+            ],
+            [
+              0.0832764630260101,
+              48.43901911054289
+            ],
+            [
+              0.08324342250398331,
+              48.439009520700495
+            ],
+            [
+              0.08316082119753787,
+              48.438965681398116
+            ],
+            [
+              0.08313604080532855,
+              48.43890814225574
+            ],
+            [
+              0.08313604080532855,
+              48.43884649310277
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+            "section": "o",
+            "name": "Boulevard-de-Strasbourg",
+            "status": "planned",
+            "type": "piste-cyclable",
+            "direction": "unidirectionel",
+            "length": 897,
+            "cost": 717600
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.08347616052287776,
+              48.438887493222666
+            ],
+            [
+              0.08653635757826805,
+              48.438011716836286
+            ],
+            [
+              0.09344880269082978,
+              48.434349215638946
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "line": "ligne-p",
+          "section": "p",
+          "name": "giratoire-Pyramide",
+          "status": "planned",
+          "type": "piste-cyclable",
+          "direction": "unidirectionel",
+          "length": 207,
+          "cost": 82800
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              0.09347276299848772,
+              48.43434922583447
+            ],
+            [
+              0.09364077381769675,
+              48.43437311256682
+            ],
+            [
+              0.09388078927335641,
+              48.434357188079815
+            ],
+            [
+              0.09402479854639978,
+              48.434261641051734
+            ],
+            [
+              0.09420481013722792,
+              48.43418201839086
+            ],
+            [
+              0.09424081245595062,
+              48.43406258416559
+            ],
+            [
+              0.09415680704688612,
+              48.433943149660195
+            ],
+            [
+              0.09384478695463372,
+              48.43396703658348
+            ],
+            [
+              0.09364077381769675,
+              48.43395907427697
+            ],
+            [
+              0.09353276686243817,
+              48.434006848097965
+            ],
+            [
+              0.09341275913553204,
+              48.43411035788924
+            ],
+            [
+              0.0933647560442239,
+              48.43425367879138
+            ],
+            [
+              0.09346076222590227,
+              48.434357188079815
+            ]
+          ],
+          "type": "LineString"
+        }
       }
-    }
-  ]
-}
+    ]
+  }
