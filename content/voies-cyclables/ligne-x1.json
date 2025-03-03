@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-          "line": "x1",
+        "line": "x1",
         "section": "a",
         "name": "Mairie-route-du-Mans",
         "status": "done",
