@@ -127,3 +127,6 @@ export function isPumpFeature(feature: Feature): feature is PumpFeature {
   return isPointFeature(feature) && feature.properties.type === 'pump';
 }
 
+export function isCompteurFeature(feature: Feature): feature is CompteurFeature {
+  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
+}
