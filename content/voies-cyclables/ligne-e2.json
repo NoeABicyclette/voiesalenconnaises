@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
         "section": "a",
         "name": "Rue-de-la-fuie-des-Vignes",
         "status": "wip",
@@ -78,7 +78,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "b",
           "name": "Rue-du-Chai-1",
           "status": "planned",
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "c",
           "name": "Rue-du-Chai-2",
           "status": "done",
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "d",
           "name": "Rue-Charles-Gides",
           "status": "planned",
@@ -156,7 +156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "e",
           "name": "Mezen-Fleuri-Vicques",
           "status": "done",
@@ -238,7 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
         "section": "f",
         "name": "Pasteur-Curie",
         "status": "done",
@@ -300,7 +300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "g",
           "name": "Rue-de-Creise",
           "status": "done",
@@ -378,7 +378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "h",
           "name": "Sainfoins-Exupery",
           "status": "done",
@@ -436,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "i",
           "name": "Normandie-Niemen",
           "status": "planned",
@@ -462,7 +462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e2",
+        "line": "e2",
           "section": "j",
           "name": "Normandie-Niemen-Vedrines-Champlain-Brazza-Perouse-Bougainville",
           "status": "done",

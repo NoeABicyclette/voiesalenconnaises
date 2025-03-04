@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "a",
             "name": "Rue-Demees-1",
             "status": "planned",
@@ -30,7 +30,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "b",
           "name": "Rue-Demees-2",
           "status": "done",
@@ -56,7 +56,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "c",
             "name": "Rue-Demees-3",
             "status": "planned",
@@ -82,7 +82,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "d",
           "name": "Rue-Cazault",
           "status": "planned",
@@ -128,7 +128,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "e",
           "name": "Boulevard-de-la-Republique",
           "status": "done",
@@ -154,7 +154,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "f",
           "name": "Avenue-de-Koutiala-1",
           "status": "done",
@@ -181,7 +181,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "g",
           "name": "Avenue-de-Koutiala-2",
           "status": "planned",
@@ -219,7 +219,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "h",
             "name": "Avenue-de-Koutiala-3",
             "status": "done",
@@ -245,7 +245,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "i",
             "name": "Boulevard-Duchamps",
             "status": "planned",
@@ -283,7 +283,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "j",
             "name": "Boulevard-Colbert-1",
             "status": "planned",
@@ -309,7 +309,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "k",
             "name": "Boulevard-Colbert-2",
             "status": "done",
@@ -335,7 +335,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "l",
           "name": "Rue-de-Lancrel",
           "status": "planned",
@@ -413,7 +413,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "m",
             "name": "Boulevard-Mezeray",
             "status": "done",
@@ -439,7 +439,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "n",
           "name": "Rue-du-general-Fromentin",
           "status": "planned",
@@ -529,7 +529,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
             "section": "o",
             "name": "Boulevard-de-Strasbourg",
             "status": "planned",
@@ -559,7 +559,7 @@
       {
         "type": "Feature",
         "properties": {
-            "line": "ligne-p",
+            "line": "p",
           "section": "p",
           "name": "giratoire-Pyramide",
           "status": "planned",

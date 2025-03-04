@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "a",
         "name": "Rue-du-general-Leclerc-St-Germain-du-Corbeis",
         "status": "done",
@@ -70,7 +70,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "b",
         "name": "Rue-du-general-Leclerc",
         "status": "planned",
@@ -96,7 +96,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
           "section": "c",
           "name": "Rue-du-general-Leclerc-Rue-de-Conde",
           "status": "done",
@@ -150,7 +150,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
           "section": "d",
           "name": "Rue-de-st-Germain",
           "status": "planned",
@@ -180,7 +180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
           "section": "e",
           "name": "Rue-Martin-Luther-King-1",
           "status": "done",
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "f",
         "name": "Rue-Martin-Luther-King-2",
         "status": "done",
@@ -273,7 +273,7 @@
       "type": "Feature",
       "properties": {
         
-	  "line": "ligne-e3",
+	  "line": "e3",
     "section": "g",
     "name": "Rue-Robert-Schumann",
     "status": "done",
@@ -355,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
           "section": "h",
           "name": "Rue-Jean-Moulin",
           "status": "planned",
@@ -401,7 +401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "i",
         "name": "Rue-Mistral-Schweitzer",
         "status": "done",
@@ -455,7 +455,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "j",
         "name": "voie-verte-passerelle-St-Germain-st-Corbeis",
         "status": "done",
@@ -489,7 +489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
         "section": "k",
         "name": "Parc-du-Gue-de-Guesnes",
         "status": "done",
@@ -592,7 +592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "ligne-e3",
+        "line": "e3",
           "section": "l",
           "name": "Rue-de-la-Suifferie-1",
           "status": "done",
@@ -661,7 +661,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "line": "ligne-e3",
+      "properties": { "line": "e3",
       "section": "m",
       "name": "Rue-de-la-Suifferie-2",
       "status": "done",
