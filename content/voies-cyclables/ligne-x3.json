@@ -212,7 +212,7 @@
         "section": "e",
         "name": "Rue-d-Argentan-giratoire",
         "status": "done",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 403,
         "cost": 0
@@ -322,7 +322,7 @@
         "section": "g",
         "name": "giratoire-Ecouves-Leclanche",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 237,
         "cost": 94800

@@ -2,7 +2,6 @@ export type LaneType =
 | 'bidirectionnelle'
 | 'bilaterale'
 | 'voie-verte'
-| 'piste-cyclable'
 | 'velorue'
 | 'voie-verte'
 | 'bandes-cyclables'

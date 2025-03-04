@@ -8,7 +8,7 @@
         "section": "a",
         "name": "Rue-du-general-Leclerc-St-Germain-du-Corbeis",
         "status": "done",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 866,
         "cost": 0
@@ -74,7 +74,7 @@
         "section": "b",
         "name": "Rue-du-general-Leclerc",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 170,
         "cost": 0
@@ -184,7 +184,7 @@
           "section": "e",
           "name": "Rue-Martin-Luther-King-1",
           "status": "done",
-          "type": "piste-cyclable",
+          "type": "bidirectionnelle",
           "direction": "bidirectionel",
           "length": 280,
           "cost": 0
@@ -218,7 +218,7 @@
         "section": "f",
         "name": "Rue-Martin-Luther-King-2",
         "status": "done",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 688,
         "cost": 0
@@ -596,7 +596,7 @@
           "section": "l",
           "name": "Rue-de-la-Suifferie-1",
           "status": "done",
-          "type": "piste-cyclable",
+          "type": "bidirectionnelle",
           "direction": "bidirectionel",
           "length": 862,
           "cost": 0

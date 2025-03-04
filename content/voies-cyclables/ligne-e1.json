@@ -491,7 +491,7 @@
           "section": "j",
           "name": "Rue-du-Roselet",
           "status": "planned",
-          "type": "piste-cyclable",
+          "type": "bidirectionnelle",
           "direction": "bidirectionel",
           "length": 445,
           "cost": 200250

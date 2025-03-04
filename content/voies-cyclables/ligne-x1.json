@@ -270,7 +270,7 @@
         "section": "f",
         "name": "giratoire-Leclerc-Kennedy",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 113,
         "cost": 56500
@@ -355,7 +355,7 @@
         "section": "h",
         "name": "giratoire-Leclerc-Roselet",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 74,
         "cost": 37000
@@ -398,7 +398,7 @@
         "section": "i",
         "name": "Route-du-Mans-1",
         "status": "done",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 317,
         "cost": 0
@@ -425,7 +425,7 @@
         "section": "j",
         "name": "Route-du-Mans-2",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 206,
         "cost": 92700
@@ -452,7 +452,7 @@
         "section": "k",
         "name": "giratoire-Mans-Chevallerie",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bidirectionnelle",
         "direction": "bidirectionel",
         "length": 135,
         "cost": 60750
@@ -495,7 +495,7 @@
         "section": "k",
         "name": "Route-du-Mans-3",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 852,
         "cost": 681600

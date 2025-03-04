@@ -168,7 +168,7 @@
         "section": "d",
         "name": "Avenue-de-Quakenbruck",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 32,
         "cost": 25600
@@ -332,7 +332,7 @@
         "section": "g",
         "name": "giratoire-Quakenbruck",
         "status": "planned",
-        "type": "piste-cyclable",
+        "type": "bilaterale",
         "direction": "unidirectionel",
         "length": 152,
         "cost": 60800

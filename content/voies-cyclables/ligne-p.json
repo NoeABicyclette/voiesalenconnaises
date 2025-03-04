@@ -249,7 +249,7 @@
             "section": "i",
             "name": "Boulevard-Duchamps",
             "status": "planned",
-            "type": "piste-cyclable",
+            "type": "bilaterale",
             "direction": "unidirectionel",
             "length": 354,
             "cost": 283200
@@ -287,7 +287,7 @@
             "section": "j",
             "name": "Boulevard-Colbert-1",
             "status": "planned",
-            "type": "piste-cyclable",
+            "type": "bilaterale",
             "direction": "unidirectionel",
             "length": 128,
             "cost": 102400
@@ -313,7 +313,7 @@
             "section": "k",
             "name": "Boulevard-Colbert-2",
             "status": "done",
-            "type": "piste-cyclable",
+            "type": "bilaterale",
             "direction": "unidirectionel",
             "length": 505,
             "cost": 0
@@ -417,7 +417,7 @@
             "section": "m",
             "name": "Boulevard-Mezeray",
             "status": "done",
-            "type": "piste-cylable",
+            "type": "bidirectionnelle",
             "direction": "bidirectionel",
             "length": 407,
             "cost": 0
@@ -533,7 +533,7 @@
             "section": "o",
             "name": "Boulevard-de-Strasbourg",
             "status": "planned",
-            "type": "piste-cyclable",
+            "type": "bilaterale",
             "direction": "unidirectionel",
             "length": 897,
             "cost": 717600
@@ -563,7 +563,7 @@
           "section": "p",
           "name": "giratoire-Pyramide",
           "status": "planned",
-          "type": "piste-cyclable",
+          "type": "bilaterale",
           "direction": "unidirectionel",
           "length": 207,
           "cost": 82800
